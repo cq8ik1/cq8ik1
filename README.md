@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/cq8ik1/cq8ik1/main/assets/profile-banner.jpg" alt="Navy and teal technology banner" width="100%">
+
+<img src="https://raw.githubusercontent.com/cq8ik1/cq8ik1/main/assets/profile-avatar.jpg" alt="Murtadha's cyber shield avatar" width="148">
+
 # Murtadha
 
 ### Python · Cybersecurity · Software Development
@@ -8,9 +12,9 @@
 
 أتعلم من خلال بناء مشاريع عملية، مع اهتمام بتطوير البرمجيات والأمن السيبراني.
 
-[![GitHub](https://img.shields.io/badge/GitHub-cq8ik1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cq8ik1)
-[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/cq8ik1?tab=repositories)
-[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0F766E?style=for-the-badge&logo=security&logoColor=white)](https://github.com/cq8ik1/CyberScan)
+[![GitHub](https://img.shields.io/badge/GitHub-cq8ik1-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cq8ik1)
+[![Python](https://img.shields.io/badge/Python-Projects-0F766E?style=for-the-badge&logo=python&logoColor=white)](https://github.com/cq8ik1?tab=repositories)
+[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-2563EB?style=for-the-badge&logo=security&logoColor=white)](https://github.com/cq8ik1/CyberScan)
 
 </div>
 
@@ -39,9 +43,9 @@ A Python-based educational tool for scanning network ports and checking for comm
 
 ## Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-2E8B57?style=flat-square&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0F766E?style=flat-square&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2563EB?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=white)
 
 ---
 
