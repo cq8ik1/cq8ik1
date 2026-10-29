@@ -2,35 +2,53 @@
 
 # Murtadha
 
-**Python · Software · Cybersecurity**
+### Python · Cybersecurity · Software Development
 
-<a href="https://github.com/cq8ik1"><img src="https://img.shields.io/badge/GitHub-cq8ik1-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: cq8ik1"></a>
-<img src="https://img.shields.io/badge/Focus-Learning%20by%20building-2563EB?style=for-the-badge" alt="Focus: learning by building">
-<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+**Learning by building practical projects.**
+
+أتعلم من خلال بناء مشاريع عملية، مع اهتمام بتطوير البرمجيات والأمن السيبراني.
+
+[![GitHub](https://img.shields.io/badge/GitHub-cq8ik1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cq8ik1)
+[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/cq8ik1?tab=repositories)
+[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0F766E?style=for-the-badge&logo=security&logoColor=white)](https://github.com/cq8ik1/CyberScan)
 
 </div>
 
 ---
 
-## About | نبذة
+## About Me | نبذة عني
 
-I’m exploring software development and cybersecurity by building practical Python projects.  
-أستكشف تطوير البرمجيات والأمن السيبراني من خلال مشاريع عملية بلغة Python.
+- Exploring software development and cybersecurity through hands-on projects.
+- Building practical tools with Python and learning one project at a time.
+- Interested in responsible security testing on systems I own or am authorized to assess.
 
-## Featured project | مشروع مميز
+أستكشف تطوير البرمجيات والأمن السيبراني عبر مشاريع عملية، وأهتم بالتعلّم المسؤول واختبار الأنظمة المصرّح بها فقط.
+
+## Featured Project | مشروع مميز
 
 ### [CyberScan](https://github.com/cq8ik1/CyberScan)
 
-A simple network and vulnerability scanner built with Python for educational purposes.  
-أداة بسيطة لفحص الشبكات والثغرات، مطوّرة بلغة Python لأغراض تعليمية.
+A Python-based educational tool for scanning network ports and checking for common web-server misconfigurations.
 
-[View the project →](https://github.com/cq8ik1/CyberScan)
+أداة تعليمية بلغة Python لفحص منافذ الشبكة والتحقق من بعض إعدادات خوادم الويب الشائعة.
+
+[Explore the project →](https://github.com/cq8ik1/CyberScan)
+
+> Use security tools only on systems you own or have explicit permission to test.  
+> استخدم أدوات الأمن فقط على الأنظمة التي تملكها أو لديك إذن صريح لاختبارها.
+
+## Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2E8B57?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 <div align="center">
 
-Thanks for visiting · شكرًا لزيارتك  
-[GitHub profile](https://github.com/cq8ik1) · `@cq8ik1`
+Thanks for stopping by · شكرًا لزيارتك
+
+[View my repositories](https://github.com/cq8ik1?tab=repositories)
 
 </div>
