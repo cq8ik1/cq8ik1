@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cq8ik1/cq8ik1/main/assets/profile-banner.jpg" alt="Navy and teal technology banner" width="100%">
+<img src="https://raw.githubusercontent.com/cq8ik1/cq8ik1/main/assets/profile-banner.jpg?v=team-banner-20261029" alt="Navy and teal technology banner" width="100%">
 
 <img src="https://raw.githubusercontent.com/cq8ik1/cq8ik1/main/assets/profile-avatar.jpg" alt="Murtadha's cyber shield avatar" width="148">
 
